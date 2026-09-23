@@ -90,3 +90,16 @@ Generative AI
 ├── LangChain
 ├── Document Parsing
 └── AI-powered Applications
+```
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=padmasri-web&theme=tokyonight&hide_border=true)
+
+<br>
+</div>
